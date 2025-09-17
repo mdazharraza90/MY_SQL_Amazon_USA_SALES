@@ -18,6 +18,7 @@ Amazon USA Sales Analysis
 
 
 # Tables Creation
+<pre> ``` sql
 -- Amazon Project - Advanced SQL 
 
 -- Create table 
@@ -131,6 +132,5 @@ warehouse_id INT,
 last_stock_date DATE,
 CONSTRAINT inventory_fk_products FOREIGN KEY (product_id) REFERENCES products(product_id)
 );
+``` </pre>
 
-
--- End of schemas
