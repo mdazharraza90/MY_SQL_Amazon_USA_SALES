@@ -204,6 +204,12 @@ CONSTRAINT inventory_fk_products FOREIGN KEY (product_id) REFERENCES products(pr
     * Query: Calculate the total revenue handled by each shipping provider.
     * Challenge: Include the total number of orders handled and the average delivery time for each provider.
 
+## SQL Solutions Script
+
+You can view the SQL solutions script here:
+
+[View solutions for Amazon USA SQL](./solutions%20for%20amazon.sql)
+
 
 # Problem Solving
 
