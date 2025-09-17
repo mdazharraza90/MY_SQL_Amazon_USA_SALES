@@ -7,4 +7,4 @@ As part of the project, I wrote different SQL queries to answer business questio
 
 To make the database structure easy to understand, I included an ERD (Entity Relationship Diagram) that shows how the tables are related.
 
-
+https://github.com/mdazharraza90/MY_SQL_Amazon_USA_SALES/blob/main/Screenshot%202025-09-17%20132938.png
