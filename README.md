@@ -6,3 +6,5 @@ I worked on a project where I analyzed over 20,000 sales records from an e-comme
 As part of the project, I wrote different SQL queries to answer business questions like tracking revenue, segmenting customers, and managing inventory. I also cleaned the data and handled missing values to make sure the analysis was accurate.
 
 To make the database structure easy to understand, I included an ERD (Entity Relationship Diagram) that shows how the tables are related.
+
+
